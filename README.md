@@ -17,6 +17,7 @@ In first scenario neutwork has been traind with this congifuration:
 
 Mosaic and flip left and right were the techniques used for augmentation.
 Labeling data has been done with DarkMark. At the end of training it has been used 3 file extensions made by DarkNet to test: .names, .cnf, .weights .
+
 It took 14 min to train.
 
 ## Net2
@@ -29,6 +30,7 @@ In first scenario neutwork has been traind with this congifuration:
 
 Cutmix and flip left and right were the techniques used for augmentation.
 Labeling data has been done with DarkMark. At the end of training it has been used 3 file extensions made by DarkNet to test: .names, .cnf, .weights .
+
 It took 7.28 min to train.
 
 ## Net3
@@ -41,4 +43,5 @@ In first scenario neutwork has been traind with this congifuration:
 
 Random corp and image zoom and tile images were the techniques used for augmentation.
 Labeling data has been done with DarkMark. At the end of training it has been used 3 file extensions made by DarkNet to test: .names, .cnf, .weights .
+
 It took 26.09 min to train.
