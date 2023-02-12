@@ -24,9 +24,9 @@ It took **14 min** to train.
 
 In first scenario neutwork has been traind with this congifuration:
 
-    - `batch_size` = 32
-    - `sub_division` = 8
-    - `max_batch` = 4000
+    * `batch_size` = 32
+    * `sub_division` = 8
+    * `max_batch` = 4000
 
 Cutmix and flip left and right were the techniques used for augmentation.
 Labeling data has been done with DarkMark. At the end of training it has been used 3 file extensions made by DarkNet to test: .names, .cnf, .weights .
@@ -37,9 +37,9 @@ It took **7.28** min to train.
 
 In first scenario neutwork has been traind with this congifuration:
 
-    - `batch_size` = 128
-    - `sub_division` = 8
-    - `max_batch` = 4000
+    * `batch_size` = 128
+    * `sub_division` = 8
+    * `max_batch` = 4000
 
 Random corp and image zoom and tile images were the techniques used for augmentation.
 Labeling data has been done with DarkMark. At the end of training it has been used 3 file extensions made by DarkNet to test: .names, .cnf, .weights .
