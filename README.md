@@ -9,7 +9,7 @@ Domain was Smart city objects. It has been used 6 default objects and 4 extra ob
 
 ## Net1
 We prepared the dataset in 10 classes with one white paper as a background.Pictures was in .png format. Then we labeled training data with DarkMark. DarkMark makes .json and .txt files automatically.
-Data augmentation was next step. Then we opened 01_ccnAugmentation project in the Visual Studio Code. After adapting **conig.ini** Augmented images will be created. It`s time to execute dataAaugmentation.py script. After that it`s time to refresh DarkMark and creating DarkNet files and customizing the parameters according to scenarios.
+Data augmentation was next step. Then we opened 01_ccnAugmentation project in the Visual Studio Code. After adapting **conig.ini** Augmented images will be created. It is time to execute dataAaugmentation.py script. After that it is time to refresh DarkMark and creating DarkNet files and customizing the parameters according to scenarios.
 
 In first scenario neutwork has been traind with this congifuration:
 
