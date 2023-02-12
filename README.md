@@ -1,6 +1,6 @@
 # Description
 
-Neural Network training with 'DarkMark', 'Darknet' based 'yolov4-tiny' architecture with resources of 'OMiLab' at the 'university of Vienna'. Operating system is 'ubuntu'. It has been defined 3 scenarios called Net1, Net2 and Net3 with different options to compare them at the end.
+Neural Network training with **'DarkMark'**, **'Darknet'** based **'yolov4-tiny'** architecture with resources of **'OMiLab'** at the **'university of Vienna'**. Operating system is **'ubuntu'**. It has been defined 3 scenarios called Net1, Net2 and Net3 with different options to compare them at the end.
 It also has been used server on computer in OMiLab with camera in this laboratory.
 
 ## Domain
