@@ -11,9 +11,9 @@ Domain was Smart city objects. It has been used 6 default objects and 4 extra ob
 
 In first scenario neutwork has been traind with this congifuration:
 
-    - `batch_size` = 64
-    - `sub_division` = 8
-    - `max_batch` = 4000
+    + `batch_size` = 64
+    + `sub_division` = 8
+    + `max_batch` = 4000
 
 Mosaic and flip left and right were the techniques used for augmentation.
 Labeling data has been done with DarkMark. At the end of training it has been used 3 file extensions made by DarkNet to test: .names, .cnf, .weights .
